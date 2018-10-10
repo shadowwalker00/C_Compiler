@@ -1,0 +1,192 @@
+# depslib dependency file v1.0
+1477978210 source:e:\大学\编译原理\compiler\token.cpp
+	"Token.h"
+
+1477978268 e:\大学\编译原理\compiler\token.h
+	<string>
+
+1477879168 source:e:\大学\编译原理\compiler\keyword.cpp
+	"KeyWord.h"
+
+1477926674 e:\大学\编译原理\compiler\keyword.h
+	<vector>
+
+1479260668 source:e:\大学\编译原理\compiler\main.cpp
+	<iostream>
+	<fstream>
+	<set>
+	"TokenAnalyzer.h"
+	"SemaAnalyzer.h"
+
+1479257672 source:e:\大学\编译原理\compiler\tokenanalyzer.cpp
+	"TokenAnalyzer.h"
+	<fstream>
+	<iostream>
+
+1479257646 e:\大学\编译原理\compiler\tokenanalyzer.h
+	<vector>
+	<fstream>
+	"Token.h"
+
+1477879168 source:c:\users\lenovo\desktop\compiler\keyword.cpp
+	"KeyWord.h"
+
+1477926674 c:\users\lenovo\desktop\compiler\keyword.h
+	<vector>
+
+1479260666 source:c:\users\lenovo\desktop\compiler\main.cpp
+	<iostream>
+	<fstream>
+	<set>
+	"TokenAnalyzer.h"
+	"SemaAnalyzer.h"
+
+1479257645 c:\users\lenovo\desktop\compiler\tokenanalyzer.h
+	<vector>
+	<fstream>
+	"Token.h"
+
+1477978268 c:\users\lenovo\desktop\compiler\token.h
+	<string>
+
+1477978210 source:c:\users\lenovo\desktop\compiler\token.cpp
+	"Token.h"
+
+1479257671 source:c:\users\lenovo\desktop\compiler\tokenanalyzer.cpp
+	"TokenAnalyzer.h"
+	<fstream>
+	<iostream>
+
+1477879168 source:h:\compiler\keyword.cpp
+	"KeyWord.h"
+
+1477926674 h:\compiler\keyword.h
+	<vector>
+
+1479260668 source:h:\compiler\main.cpp
+	<iostream>
+	<fstream>
+	<set>
+	"TokenAnalyzer.h"
+	"SemaAnalyzer.h"
+
+1479257646 h:\compiler\tokenanalyzer.h
+	<vector>
+	<fstream>
+	"Token.h"
+
+1477978268 h:\compiler\token.h
+	<string>
+
+1477978210 source:h:\compiler\token.cpp
+	"Token.h"
+
+1479257672 source:h:\compiler\tokenanalyzer.cpp
+	"TokenAnalyzer.h"
+	<fstream>
+	<iostream>
+
+1479260596 e:\大学\编译原理\compiler\semaanalyzer.h
+	"Producer.h"
+	<set>
+	<vector>
+	<stack>
+
+1478350136 e:\大学\编译原理\compiler\producer.h
+	<string>
+
+1478350224 source:e:\大学\编译原理\compiler\producer.cpp
+	"Producer.h"
+
+1479264252 source:e:\大学\编译原理\compiler\semaanalyzer.cpp
+	"SemaAnalyzer.h"
+	"TokenAnalyzer.h"
+	<iostream>
+	<algorithm>
+	<set>
+
+1477879168 source:c:\users\steven\desktop\compiler\keyword.cpp
+	"KeyWord.h"
+
+1477926674 c:\users\steven\desktop\compiler\keyword.h
+	<vector>
+
+1478919628 source:c:\users\steven\desktop\compiler\main.cpp
+	<iostream>
+	<fstream>
+	<set>
+	"TokenAnalyzer.h"
+	"SemaAnalyzer.h"
+
+1478008481 c:\users\steven\desktop\compiler\tokenanalyzer.h
+	<vector>
+	<fstream>
+	"Token.h"
+
+1477978268 c:\users\steven\desktop\compiler\token.h
+	<string>
+
+1478916992 c:\users\steven\desktop\compiler\semaanalyzer.h
+	"Producer.h"
+	<set>
+	<vector>
+	<stack>
+
+1478350135 c:\users\steven\desktop\compiler\producer.h
+	<string>
+
+1478350222 source:c:\users\steven\desktop\compiler\producer.cpp
+	"Producer.h"
+
+1478928404 source:c:\users\steven\desktop\compiler\semaanalyzer.cpp
+	"SemaAnalyzer.h"
+	<iostream>
+	<algorithm>
+	<set>
+
+1477978210 source:c:\users\steven\desktop\compiler\token.cpp
+	"Token.h"
+
+1478513626 source:c:\users\steven\desktop\compiler\tokenanalyzer.cpp
+	"TokenAnalyzer.h"
+	<fstream>
+	<iostream>
+
+1479260595 c:\users\lenovo\desktop\compiler\semaanalyzer.h
+	"Producer.h"
+	<set>
+	<vector>
+	<stack>
+
+1478350136 c:\users\lenovo\desktop\compiler\producer.h
+	<string>
+
+1478350224 source:c:\users\lenovo\desktop\compiler\producer.cpp
+	"Producer.h"
+
+1479264104 source:c:\users\lenovo\desktop\compiler\semaanalyzer.cpp
+	"SemaAnalyzer.h"
+	"TokenAnalyzer.h"
+	<iostream>
+	<algorithm>
+	<set>
+
+1479260596 h:\compiler\semaanalyzer.h
+	"Producer.h"
+	<set>
+	<vector>
+	<stack>
+
+1478350136 h:\compiler\producer.h
+	<string>
+
+1478350224 source:h:\compiler\producer.cpp
+	"Producer.h"
+
+1479264252 source:h:\compiler\semaanalyzer.cpp
+	"SemaAnalyzer.h"
+	"TokenAnalyzer.h"
+	<iostream>
+	<algorithm>
+	<set>
+
